@@ -14,10 +14,6 @@
   <img src="https://img.shields.io/badge/Specialty-FiveM-D2691E?style=for-the-badge" />
 </p>
 
-<div align="center">
-  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=slowwdown&theme=dark&hide_border=true&background=0d1117&stroke=D2691E&ring=7B3F00&fire=F5DEB3&currStreakLabel=D2691E" />
-</div>
-
 ---
 
 <div align="center">
