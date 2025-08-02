@@ -21,19 +21,19 @@
 
 <table align="center" cellpadding="10">
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,materialui,figma&theme=dark" /></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mysql,lua,nextjs&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,lua&theme=dark" /></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=tailwind,vite,figma,git,vscode,vercel&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,vite,angular,threejs,prisma&theme=dark" /></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=materialui,github,postman,npm,notion,ps&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman,docker&theme=dark" /></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=atlassian,mariadb,ubuntu&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=npm,notion,ps,ubuntu,vercel,cloudflare&theme=dark" /></td>
   </tr>
 </table>
 
