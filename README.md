@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0C0C0C&height=200&section=header&text=Code%20•%20Create%20•%20Distill&fontSize=32&fontColor=D8C748&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0C0C0C&height=200&section=header&text=Code%20•%20Create%20•%20Drink&fontSize=32&fontColor=D8C748&animation=twinkling" />
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=800&color=D8C748&center=true&vCenter=true&width=700&lines=〉+I'm+Sloww+🥃;〉+Full+Stack+Developer;〉+FiveM+Creator+%26+Scripter;〉+Crafting+Digital+Dreams+🔥" />
