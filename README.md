@@ -24,10 +24,10 @@
     <td><img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,materialui,figma&theme=dark" /></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,lua&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,lua&theme=dark" /></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,vite,angular,threejs,prisma&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,vite,react&theme=dark" /></td>
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman,docker&theme=dark" /></td>
